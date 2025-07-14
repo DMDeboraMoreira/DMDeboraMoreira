@@ -71,7 +71,6 @@ Estoy en constante aprendizaje y valoro los entornos donde el **pensamiento crí
 - Pensamiento analítico y resolución de problemas complejos  
 - Precisión y atención al detalle  
 - Redacción estructurada y argumentativa  
-- Capacidad de interpretar normas como código  
 - Gestión de proyectos y cumplimiento de plazos  
 - Comunicación profesional y persuasiva
 
