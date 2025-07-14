@@ -17,10 +17,13 @@ Actualmente aplico esas competencias en el desarrollo de aplicaciones web funcio
 
 ## 🚀 Proyectos destacados
 
-### 🎯 TurismoApp – Frontend Developer  
-**Stack:** React, Next.js, Zustand  
-Aplicación web para reservas turísticas con precios diferenciados por membresía.  
-🔐 Autenticación, rutas protegidas, manejo de estado global, diseño adaptativo.
+### 🐾 HeartsAndPaws 
+**Stack:** React, Next.js, TypeScript. 
+Aplicación web para ONGs que ayudan a animales.  
+Permite registrar mascotas, publicar casos (adopción o donación), gestionar solicitudes y chatear con usuarios.  
+🧩 Funcionalidades: flujo completo de ONG, chat en tiempo real, validaciones, diseño responsive y experiencia centrada en el usuario.  
+🔗 [Repositorio Frontend](https://github.com/HeartsAndPaws/HeartsAndPawsFront)
+
 
 ### 🛒 Carrito de Compras – Full Stack Developer  
 **Stack:** React, Node.js, MongoDB  
