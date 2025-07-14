@@ -52,6 +52,8 @@ Plataforma funcional con gestión de productos, historial de pedidos y perfiles 
   Formación técnica en análisis normativo, argumentación lógica y redacción precisa.
 
 - **Cursos complementarios:** Udemy (2025)
+Creado por Victor Robles: Máster en Backend: NodeJS, OpenAI, Laravel, Django +
+
 
 ---
 
