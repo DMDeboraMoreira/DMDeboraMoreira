@@ -25,7 +25,7 @@ Permite registrar mascotas, publicar casos (adopción o donación), gestionar so
 🔗 [Repositorio Frontend](https://github.com/HeartsAndPaws/HeartsAndPawsFront)
 
 
-### 🛒 Carrito de Compras – Full Stack Developer  
+### 🛒 Mi Tienda – Full Stack Developer  
 **Stack:** React, Node.js, MongoDB  
 Plataforma funcional con gestión de productos, historial de pedidos y perfiles de usuario.  
 ✅ Formularios validados, lógica condicional y persistencia de datos.
