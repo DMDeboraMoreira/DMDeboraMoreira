@@ -1,79 +1,111 @@
-# ¡Hola! Soy Débora Mariana Moreira 👩‍💻
 
-Desarrolladora Full Stack en formación | Ex abogada laboralista  
-📍 Buenos Aires, Argentina | 📧 debomoreira243@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/debo-moreira-07b50b2b0/) | [GitHub](https://github.com/DMDeboraMoreira)
+¡Hola! Soy Débora Mariana Moreira 👩‍💻
 
----
+Desarrolladora Full Stack en formación | Ex abogada laboralista
+📍 Buenos Aires, Argentina | 📧 debomoreira243@gmail.com
+🔗 LinkedIn | 💻 GitHub
 
-## 👩‍💻 Sobre mí
+👩‍💻 Sobre mí
 
-Desarrolladora web con formación full stack y base sólida en resolución de problemas, lógica estructurada y pensamiento analítico.  
-Mi experiencia previa en entornos profesionales de alta exigencia técnica me entrenó en la toma de decisiones precisas y el uso riguroso del lenguaje.
+Desarrolladora web con formación full stack y base sólida en resolución de problemas, lógica estructurada y pensamiento analítico.
+Mi experiencia previa en entornos de alta exigencia técnica me entrenó en toma de decisiones precisas y uso riguroso del lenguaje.
 
-Actualmente aplico esas competencias en el desarrollo de aplicaciones web funcionales, accesibles y mantenibles, con foco en buenas prácticas y escalabilidad.
+Actualmente aplico estas competencias en el desarrollo de aplicaciones web funcionales, accesibles y escalables, con foco en buenas prácticas y calidad de código.
 
----
+🐾 Proyectos Destacados
+Hearts & Paws (Proyecto Final Grupal)
 
-## 🚀 Proyectos destacados
+Plataforma para apoyar a organizaciones que rescatan y cuidan animales en situación de calle.
 
-### 🐾 HeartsAndPaws 
-**Stack:** React, Next.js, TypeScript. 
-Aplicación web para ONGs que ayudan a animales.  
-Permite registrar mascotas, publicar casos (adopción o donación), gestionar solicitudes y chatear con usuarios.  
-🧩 Funcionalidades: flujo completo de ONG, chat en tiempo real, validaciones, diseño responsive y experiencia centrada en el usuario.  
-🔗 [Repositorio Frontend](https://github.com/HeartsAndPaws/HeartsAndPawsFront)
+🧩 Funcionalidades
 
+🐕 Gestión de animales: registro y seguimiento (rehabilitación, adopción)
 
-### 🛒 Mi Tienda – Full Stack Developer  
-**Stack:** React, Node.js, MongoDB  
-Plataforma funcional con gestión de productos, historial de pedidos y perfiles de usuario.  
-✅ Formularios validados, lógica condicional y persistencia de datos.
+💰 Campañas de donación con trazabilidad y comprobantes
 
----
+💬 Comunicación directa entre organizaciones, adoptantes y donantes
 
-## 🛠️ Habilidades Técnicas
+👁️ Perfiles transparentes para generar confianza
 
-- **Lenguajes:** JavaScript, TypeScript, HTML, CSS, SQL  
-- **Frameworks / Librerías:** React, Next.js, Node.js, Express  
-- **Bases de datos:** MongoDB, PostgreSQL  
-- **Testing:** Jest, React Testing Library  
-- **Control de versiones:** Git, GitHub  
-- **Herramientas:** Postman, Visual Studio Code, Chrome DevTools
+⭐ Sistema de calificación para asegurar calidad y credibilidad
 
----
+💡 Valor diferencial
+Digitaliza procesos clave en la protección animal, mejorando la interacción con la comunidad.
 
-## 📚 Educación
+🛠 Tecnologías: Next.js · React · Tailwind CSS · Node.js · Express · PostgreSQL · MongoDB
+🤝 Rol: Frontend · Backend · Diseño · Gestión de proyecto
 
-- **Desarrollo Full Stack Web** – Soy Henry (2025)  
-  Bootcamp práctico e intensivo con enfoque full stack. Stack completo + metodologías ágiles.
+E-Commerce (Frontend con Next.js + TailwindCSS)
 
-- **Abogacía** – Universidad de Buenos Aires (2013)  
-  Formación técnica en análisis normativo, argumentación lógica y redacción precisa.
+Aplicación de e-commerce con experiencia de usuario fluida y moderna.
 
-- **Cursos complementarios:** Udemy (2025)
-Creado por Victor Robles: Máster en Backend: NodeJS, OpenAI, Laravel, Django +
+🧩 Funcionalidades
 
+📦 Listado dinámico de productos
 
----
+🛒 Carrito de compras (agregar/eliminar)
 
-## 💬 Me definen...
+❤️ Favoritos para productos destacados
 
-> “Vengo de una trayectoria en la que la lógica, la precisión y la estructura eran fundamentales.  
-> Hoy aplico esas mismas cualidades al desarrollo web, creando interfaces limpias, código claro y soluciones prácticas.”
+✅ Simulación de compra con vaciado del carrito
 
-Estoy en constante aprendizaje y valoro los entornos donde el **pensamiento crítico, la claridad y la empatía** son clave para crear tecnología útil y accesible.
+📱 Diseño responsive minimalista con TailwindCSS
 
----
+💡 Objetivo: Practicar lógica de compras, manejo de estado y UX (sin pagos reales)
 
-## 🤝 ¿Qué puedo aportar?
+Gestor de Turnos (Proyecto Full Stack)
 
-- Pensamiento analítico y resolución de problemas complejos  
-- Precisión y atención al detalle  
-- Redacción estructurada y argumentativa  
-- Gestión de proyectos y cumplimiento de plazos  
-- Comunicación profesional y persuasiva
+Aplicación para optimizar la reserva y gestión de turnos.
 
----
+🧩 Funcionalidades
 
-✨ ¡Gracias por visitar mi perfil! Siempre abierta a nuevos desafíos y colaboración. ✨
+📝 Registro, login y edición de perfil con foto
+
+📅 Reserva online con confirmación inmediata
+
+📧 Emails automáticos con Nodemailer
+
+📱 Diseño responsive con Bootstrap
+
+🛠 Tecnologías: React · TypeScript · Vite · Node.js · Express · Nodemailer
+
+🛠 Tecnologías y Herramientas
+
+Lenguajes & Bases de Datos
+🌐 HTML · 🎨 CSS · ⚡ JavaScript · ⚛️ React · 🖥️ Node.js · 🗄️ MongoDB
+
+Frontend
+🌐 HTML/CSS · ⚡ JavaScript · ⚛️ React · 🔄 Next.js · 📝 TypeScript · 🎯 Tailwind CSS
+
+Backend
+🖥️ Node.js · 🚀 Express · 🗃️ PostgreSQL · 🗄️ MongoDB
+
+📚 Educación
+
+🎓 Desarrollo Full Stack Web – Soy Henry (2025)
+Bootcamp intensivo con frontend, backend y metodologías ágiles.
+
+⚖️ Abogacía – Universidad de Buenos Aires (2013)
+Análisis normativo · Argumentación lógica · Redacción precisa
+
+💻 Cursos Complementarios – Udemy (2025)
+Máster en Backend: NodeJS, OpenAI, Laravel, Django (Victor Robles)
+
+💬 Me definen…
+
+“Vengo de una trayectoria en la que la lógica, la precisión y la estructura eran fundamentales.
+Hoy aplico esas mismas cualidades al desarrollo web, creando interfaces limpias, código claro y soluciones prácticas.”
+
+🤝 Qué puedo aportar
+
+Pensamiento analítico y resolución de problemas complejos
+
+Precisión y atención al detalle
+
+Redacción estructurada y argumentativa
+
+Gestión de proyectos y cumplimiento de plazos
+
+Comunicación profesional y persuasiva
+
+✨ Gracias por visitar mi perfil — siempre abierta a nuevos desafíos y colaboración ✨
