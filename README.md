@@ -1,6 +1,6 @@
 # ¡Hola! Soy Débora Mariana Moreira 👩‍💻
 
-**Desarrolladora Full Stack en formación | Ex abogada laboralista**  
+**Desarrolladora Full Stack**  
 📍 Buenos Aires, Argentina  
 📧 debomoreira243@gmail.com  
 [🔗 LinkedIn](https://www.linkedin.com/in/debo-moreira-07b50b2b0/) | [💻 GitHub](https://github.com/DMDeboraMoreira)
